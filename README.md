@@ -15,7 +15,7 @@ class Attributes:
 	@staticmethod
 	def life(self) -> tuple:
 		langs         = ['Spanish', 'English', 'Japanese']
-		age           = 14
+		age           = 15
 		
 		return langs, age
 	
