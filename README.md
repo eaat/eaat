@@ -4,13 +4,7 @@ my current project is website
 
 
 more too come!!
-
-import girls
-
-class Attributes:
-	def __init__(self) -> None:
-		girls.get('none')
-	
+  
 	@staticmethod
 	def contact(self) -> tuple:
 	    discord  = "sleepyy#0001"
